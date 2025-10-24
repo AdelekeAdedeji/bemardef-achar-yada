@@ -1,3 +1,5 @@
+/* linked_list.h */
+
 #ifndef LINKED_LIST_H
 #define LINKED_LIST_H
 #define LIST_IS_EMPTY 1
