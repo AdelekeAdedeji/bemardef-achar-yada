@@ -1,4 +1,6 @@
-/* linked_list.c */
+/* linked_list.c
+* This file contains the implementation of the linked list and it's operations
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
