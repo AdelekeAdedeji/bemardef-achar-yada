@@ -1,0 +1,1 @@
+For further details: [Visit my blog](https://medium.com/@aadeleke91618330/back-to-fundamentals-again-linked-list-f3ad9e338aea)
